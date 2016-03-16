@@ -1,0 +1,11 @@
+Package: tdisplay
+Title: Tool Box for Data Importation and Display.
+Version: 0.7-0
+Date: 2016-03-16
+Author: Matthieu Lesnoff <matthieu.lesnoff@cirad.fr>, Samir Messad <samir.messad@cirad.fr> 
+        and Renaud Lancelot <renaud.lancelot@cirad.fr>
+Description: A set of utilities for for importing datasets from external files and for displaying the contents of data frames.
+Maintainer: Samir Messad <samir.messad@cirad.fr>
+Depends: R (>= 3.0.0), tcltk, RODBC
+License: GPL version 2 or newer
+LazyLoad: no
