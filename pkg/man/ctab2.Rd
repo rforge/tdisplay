@@ -1,5 +1,6 @@
 \name{ctab2}
 \alias{ctab2}
+\alias{print.ctab2}
 \title{ctab2 Cross Tabulation (data frame outputs)}
 \encoding{latin1}
 

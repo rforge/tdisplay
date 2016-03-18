@@ -6,6 +6,7 @@ Author: Matthieu Lesnoff <matthieu.lesnoff@cirad.fr>, Samir Messad <samir.messad
         and Renaud Lancelot <renaud.lancelot@cirad.fr>
 Description: A set of utilities for for importing datasets from external files and for displaying the contents of data frames.
 Maintainer: Samir Messad <samir.messad@cirad.fr>
-Depends: R (>= 3.0.0), tcltk, RODBC
+Depends: R (>= 3.0.0)
+Imports: tcltk, RODBC 
 License: GPL (>= 2)
 LazyLoad: no
