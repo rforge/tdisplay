@@ -7,7 +7,7 @@
   }
 \description{
   The package \code{tdisplay} is a set of utilities for importing datasets from external files
-  and for displaying the contents of data frames. 
+  and for displaying the contents of data frames 
   }
 
 \details{
